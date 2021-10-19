@@ -7,7 +7,7 @@ body {
             width: 600px; }
   table {background-color: yellow; }
     table, tr, td, th {
-      border: 2px solid blue;  
+      border: 2px solid red;  
         border-collapse: none;
           text-allign: center;
             padding: 5px;
