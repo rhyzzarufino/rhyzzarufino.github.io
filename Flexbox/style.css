@@ -1,7 +1,7 @@
 .container {
   display: flex;
   flex-wrap: no wrap;
-  flex-direction: row;
+  flex-direction: row wrap;
   justify-content: center;
 }
  
