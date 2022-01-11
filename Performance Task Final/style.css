@@ -1,13 +1,7 @@
-@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css');
-* {
+*{
   box-sizing: border-box;
   margin: 0;
 }
-
-/*
-  Css code writen here...
-*/
-/*Body section...@*/
 body {
   margin: 0;
   padding: 0;
@@ -17,7 +11,7 @@ body {
   background-repeat: no-repeat;
   opacity: 1;
   overflow: hidden;
-  background: #fff;
+  background: #EED7CE;
   transition: 3s;
 
 }
@@ -178,7 +172,7 @@ li a {
   width: 30px;
   height: 30px;
   border-radius: 50%;
-  background: #ff5959;
+  background: #FFC4E1;
   position: absolute;
   transform: translate(-50%, -50%);
   top: 15%;
@@ -284,7 +278,7 @@ nav {
 .line {
   height: 40px;
   width: 2px;
-  background: #fff;
+  background: #EAEAEA;
   margin: 0;
   position: absolute;
   left: 88%;
