@@ -45,10 +45,11 @@ a {
   text-decoration: none;
 }
 
-ul li {a:hover;}
+ul li a:hover {
   border-radius: 10px;
   border-bottom: 10px solid black;
   transition: 0.5s;
+
 }.main {
   height: 85vh;
   display: flex;
@@ -88,7 +89,7 @@ h1 {
   color: #f50158;
 }
 
-.icons {span:hover;} 
+.icons span:hover { 
   color: black;
   transition: 0.5s;
 }
