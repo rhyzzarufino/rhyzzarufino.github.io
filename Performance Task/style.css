@@ -6,7 +6,7 @@
   body{
     margin: 0;
     padding: 0;
-    background: url(https://www.teenvogue.com/story/treasure-making-healing-music-with-no-regrets-interview/amp.jpg) no-repeat;
+    background-image: url(https://www.teenvogue.com/story/treasure-making-healing-music-with-no-regrets-interview/amp.jpg) no-repeat;
     background-size: cover;
 }
 .width {
@@ -45,7 +45,7 @@ a {
   text-decoration: none;
 }
 
-ul li a:hover {
+ul li {a:hover;}
   border-radius: 10px;
   border-bottom: 10px solid black;
   transition: 0.5s;
@@ -79,7 +79,7 @@ h1 {
     padding-top: 8rem;
 }
 
-.icons span {
+.icons span{
   margin-right: 2rem;
   font-size: 30px;
   background: #fff;
@@ -88,7 +88,7 @@ h1 {
   color: #f50158;
 }
 
-.icons span:hover {
+.icons {span:hover;} 
   color: black;
   transition: 0.5s;
 }
