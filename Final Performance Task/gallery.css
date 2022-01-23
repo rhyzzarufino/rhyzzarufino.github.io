@@ -1,0 +1,12 @@
+body {
+
+background-color: #BAFFB4;
+    background-repeat: no repeat;
+    background-size: cover;
+    height: 100%;
+  }
+
+  .contents {
+    background-color: rgb(255, 241, 138);
+    padding: 5px 0px 10px 5px;
+  }
