@@ -3,7 +3,7 @@ body {
 background-color: #C2FFF9;
     background-repeat: no repeat;
     background-size: cover;
-    border: 5px dotted black;
+    border-style: 5px solid;
     height: 100%;
   }
 
