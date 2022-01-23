@@ -3,6 +3,7 @@ body {
 background-color: #BAABDA;
     background-repeat: no repeat;
         background-size: cover;
+          border: 5px dotted black;
             height: 100%;
               }
   .contents {
