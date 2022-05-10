@@ -1,0 +1,13 @@
+let d = document
+let sn = d.querySelector(".studentName");
+let grds = d.querySelectorAll(".grade");
+let btn = d.querySelector("button");
+let click = d.querySelector("p");
+let x = 0;
+let a = 0;
+
+btn.addEventListener('click', () =>{
+  x = parseInt(grds[0].value) + parseInt(grds[1].value) + parseInt(grds[2].value) + parseInt(grds[3].value);
+  a = Math.round (x / grds.length);
+      click.textContent = "The average grade of " + sn.value + " is " + a; 
+});
