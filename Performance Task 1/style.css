@@ -1,0 +1,19 @@
+.grade {
+  width: 50px;
+}
+
+ul { padding: 0; }
+
+li {
+  list-style-type: none;
+  margin: 5px 0;
+}
+
+#studentName { width: 120px}
+label { display: inline-block; width: 100px; }
+
+button {
+  display: block;
+  margin-top: 15px;
+  padding: 10px;
+}
